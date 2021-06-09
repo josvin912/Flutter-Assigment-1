@@ -45,7 +45,7 @@ class TransactionsScreen extends StatelessWidget{
                  mainAxisAlignment: MainAxisAlignment.center,
                  children: <Widget>[
                    Text("Total Transaction Amount", style: TextStyle(fontWeight: FontWeight.bold, color : Colors.white),),
-                   Text("\$2.67M", style: TextStyle(color : Colors.white, fontSize: 42),),
+                   Text("\10000Rs", style: TextStyle(color : Colors.white, fontSize: 42),),
                  ],
                ),
             ),
