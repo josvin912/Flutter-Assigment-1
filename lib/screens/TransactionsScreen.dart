@@ -24,7 +24,7 @@ class TransactionsScreen extends StatelessWidget{
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: <Widget>[
                   Text("Hello,", style: TextStyle(fontWeight: FontWeight.bold, color : Colors.white),),
-                  Text("There", style: TextStyle(fontSize: 24, color : Colors.white, fontWeight: FontWeight.w300),)
+                  Text("Merlin Koshy", style: TextStyle(fontSize: 24, color : Colors.white, fontWeight: FontWeight.w300),)
                 ],
               )
             ],
